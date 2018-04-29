@@ -1,0 +1,19 @@
+.square {
+  margin: 0 auto;
+  width: 30%;
+  height: 150px;
+  color: blue;
+  font-size: 70px;
+  background: white;
+  border: 8px solid black;
+  display: inline-block;
+  float: left;
+  text-align: center;
+  line-height: 150px;
+  cursor: pointer;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
